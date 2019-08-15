@@ -22,7 +22,7 @@
 }
 
 .ace_marker-layer .ace_selection {
-  background: #FFC400;
+  background: #B3962E;
 }
 
 .ace_selection.ace_start {
@@ -40,15 +40,15 @@
 }
 
 .ace_marker-layer .ace_active-line {
-  background: #EDCD5A;
+  background: #CFB24B;
 }
 
 .ace_gutter-active-line {
-  background-color: #EDCD5A;
+  background-color: #CFB24B;
 }
 
 .ace_marker-layer .ace_selected-word {
-  border: 1px solid #FFC400
+  border: 1px solid #B3962E
 }
 
 .ace_fold {
