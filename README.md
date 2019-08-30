@@ -9,7 +9,7 @@ Available as `tmTheme` and `rstheme`.
 
 To install custom themes in RStudio, you must have the [daily build](https://dailies.rstudio.com/) installed.
 
-With the daily build, you can import either the [tmTheme file](https://github.com/Z3tt/fairlyfloss-dark/blob/master/fairyfloss_dark.tmTheme) or the [rstheme file](https://github.com/Z3tt/fairlyfloss-dark/blob/master/fairyfloss_dark.rstheme) by going to `Preferences >> Appearance >> Add` (see gif, below — night-owl not actually shown).
+With the daily build, you can import either the [tmTheme file](https://github.com/Z3tt/fairlyfloss-dark/blob/master/fairyfloss_dark.tmTheme) or the [rstheme file](https://github.com/Z3tt/fairlyfloss-dark/blob/master/fairyfloss_dark.rstheme) by going to `Preferences >> Appearance >> Add` (see gif below — fairlyfloss_dark not actually shown).
 
 ![Importing custom themes in RStudio](https://i.imgur.com/0801DLK.gif)
 
