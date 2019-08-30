@@ -22,4 +22,4 @@ In order to modify the imported rstheme file, you'll need to go to:
 There, you'll find the imported theme as `fairyfloss_dark.rstheme`.
 
 ---
-\* Thank you for the [`rsTheme` installation notes](https://github.com/batpigandme/night-owlish), Mara!
+\* Thank you for the [installation notes](https://github.com/batpigandme/night-owlish), Mara!
