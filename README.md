@@ -14,8 +14,8 @@ With the daily build, you can import the [tmTheme file](https://github.com/batpi
 
 In order to modify the imported rstheme file, you'll need to go to:
 
-- Mac: **`/Users/<you>/.R/rstudio/themes`**.
-- Linux: **`/home/<you>/.R/rstudio/themes`**.
+- Mac: **`/Users/<you>/.R/rstudio/themes`**
+- Linux: **`/home/<you>/.R/rstudio/themes`**
 - Windows: **`C:/Users/<you>/Documents/.R/rstudio/themes`**
 
 There, you'll find the imported theme as `fairyfloss_dark.rstheme`.
