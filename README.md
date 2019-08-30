@@ -1,4 +1,4 @@
-# fairlyfloss-dark 🦄
+# fairlyfloss-dark 🍭🦄🌇
 
 Theme based on the [`fairlyfloss`](http://sailorhg.github.io/fairyfloss/) theme that is a bit less candy and pastel - more a late evening dream. tmTheme and rstheme available.
 
