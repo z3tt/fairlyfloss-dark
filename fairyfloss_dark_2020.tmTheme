@@ -14,7 +14,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#494266</string>
+				<string>#302B47</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
@@ -298,7 +298,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.fairyfloss_dark</string>
+	<string>theme.dark.fairyfloss_dark_2020</string>
 	<key>author</key>
 	<string>Cédric Scherer</string>
 	<key>comment</key>
